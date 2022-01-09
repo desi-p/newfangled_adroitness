@@ -1,6 +1,6 @@
 # newfangled_adroitness
 
-This respository *will* have challenges, short projects and general activities used for practice during my spare time.
+This respository *will* host challenges, short projects and general activities used for practice.
 
 Flowers -
 Completed with #frankslaboratory channel to complete Codepens Generative Art challenge (January 2022)
